@@ -21,7 +21,7 @@ repository               : "ANIRUDHBS1/ANIRUDHBS1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "BSA"
+  avatar           : "BSA.jpeg"
   name             : "Anirudh B S"
   pronouns         : # example: "she/her"  
   bio              : "B.Tech Student, Analog Designer at TI SoC Design Center; Communication Engineer at Space Lab; IIT Madras"
