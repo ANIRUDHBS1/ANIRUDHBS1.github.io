@@ -14,4 +14,11 @@ I am Anirudh B S, an Undergraduate Researcher in the Integrated Circuits and Sys
 
 # Latest News
 
-* Website is getting ready !
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
