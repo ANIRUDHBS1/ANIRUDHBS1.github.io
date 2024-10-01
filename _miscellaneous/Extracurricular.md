@@ -1,6 +1,7 @@
 ---
 title: "misc"
 collection: miscellaneous
+permalink : /miscellaneous/
 ---
 
 Apart from academics and research, I’m passionate about a range of stuff. Know more about some of them here!
