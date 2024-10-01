@@ -18,7 +18,7 @@ You can take a look at the [IITMSAT Website](https://sites.google.com/view/iitms
 
 <figure>
   <img src="/images/Space.png" alt="Picture with Mr. Suresh Susurla, CEO of Startoon Labs, Alumni of Space Lab, IIT Madras">
-  <figcaption>Picture with Mr. Suresh Susurla, CEO of Startoon Labs, Alumni of Space Lab, IIT Madras</figcaption>
+  <figcaption class="text-center">Picture with Mr. Suresh Susurla, CEO of Startoon Labs, Alumni of Space Lab, IIT Madras</figcaption>
 </figure>
 
 # Chess
