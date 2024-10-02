@@ -1,5 +1,9 @@
 {% include base_path %}
 
+.archive__item li {
+  display: inline-block;
+}
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
