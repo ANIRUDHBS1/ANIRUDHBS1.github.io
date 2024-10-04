@@ -21,5 +21,5 @@ I also love working on Integrated Circuit Design and Testing. I have worked on p
 <li>Design of a 6 bit digitally controlled Ku Band Phase Shifter - Schematic and Layout </li>
 </ol>
 
-![DAC](/images/DAC.jpg)
-![Layout](/images/Layout.jpg)
+![DAC](/images/DAC.png)
+![Layout](/images/Layout.png)
