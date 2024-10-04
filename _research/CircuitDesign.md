@@ -10,6 +10,7 @@ I have delved into a range of projects revolving around Semiconductor Device Phy
 Working on this project has fueled my interest in semiconductors and energy.
 
 ![Markov Chain based Modelling of Memory](/images/WebGraph.jpg)
+<center> Markov Chain based Modelling of Memory </center>
 
 # Integrated Circuit Design and Testing
 
@@ -22,4 +23,6 @@ I also love working on Integrated Circuit Design and Testing. I have worked on p
 </ol>
 
 ![DAC](/images/DAC.png)
+<center> Digital to Analog Converter (DAC) </center>
 ![Layout](/images/Layout.png)
+<center> Layout of a Transformer </center>
