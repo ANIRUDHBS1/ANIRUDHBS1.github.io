@@ -10,7 +10,7 @@ I have delved into a range of projects revolving around Semiconductor Device Phy
 Working on this project has fueled my interest in semiconductors and energy.
 
 ![Markov Chain based Modelling of Memory](/images/WebGraph.jpg)
-<center> Markov Chain based Modelling of Memory </center>
+<center> Fig: Markov Chain based Modelling of Memory </center>
 
 # Integrated Circuit Design and Testing
 
@@ -23,6 +23,12 @@ I also love working on Integrated Circuit Design and Testing. I have worked on p
 </ol>
 
 ![DAC](/images/DAC.png)
-<center> Digital to Analog Converter (DAC) </center>
+<center> Fig: Digital to Analog Converter (DAC) </center>
+
 ![Layout](/images/Layout.png)
-<center> Layout of a Transformer </center>
+<center> Fig: Layout of a Transformer </center>
+
+During my stay at IITMSAT, I got to test space grade PCBs and work on state of the art network analysers to characterise amplifiers and splitters in the RF chain. 
+
+![COMTX](/images/COMTX.png)
+<center> Fig: Space Grade COM Tx Board </center>
