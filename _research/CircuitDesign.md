@@ -30,5 +30,5 @@ I also love working on Integrated Circuit Design and Testing. I have worked on p
 
 During my stay at IITMSAT, I got to test space grade PCBs and work on state of the art network analysers to characterise amplifiers and splitters in the RF chain. 
 
-![COMTX](/images/COMTX.png)
-<center> Fig: Space Grade COM Tx Board </center>
+![COMTX](/images/COM.jpeg)
+<center> Fig: COM Board on Satellite </center>
