@@ -9,7 +9,7 @@ I have delved into a range of projects revolving around Semiconductor Device Phy
 
 Working on this project has fueled my interest in semiconductors and energy.
 
-<img src="/images/WebGraph.jpg" alt="Memory Model" style="max-width: 100%; max-height: 400px;">
+![Markov Chain based Modelling of Memory](/images/WebGraph.jpg)
 <center> Fig: Markov Chain based Modelling of Memory </center>
 
 # Integrated Circuit Design and Testing
