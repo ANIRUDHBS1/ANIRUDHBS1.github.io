@@ -32,3 +32,16 @@ During my stay at IITMSAT, I got to test space grade PCBs and work on state of t
 
 ![COMTX](/images/COM.jpg)
 <center> Fig: COM Board on Satellite </center>
+
+# Distributed Modelling of Photonic Components
+
+Of late, I have been interested in distributed SPICE modelling of photonic components. 
+
+![MRM](/images/MRM.png)
+<center> Ref: 300-Gbps optical interconnection using neuralnetwork based silicon microring modulator </center>
+
+# AI Circuits and Circuit Design Automation
+
+I am also highly interested in the application of ML in Circuit Design and how circuit design can build faster AI hardware. 
+
+[Automating RF Circuit Synthesis](https://github.com/ANIRUDHBS1/Automating-RF-Circuit-Synthesis)
