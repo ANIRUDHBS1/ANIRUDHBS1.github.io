@@ -25,4 +25,4 @@ I used to be a district-level chess champion in school, but now I play chess cas
 
 # Music
 
-I've been learning to play the piano for the past couple of months. It's a wonderful way to unwind in today's buzzing world.
+I've been learning to play the piano for the past couple of months. It's a wonderful way to unwind.
