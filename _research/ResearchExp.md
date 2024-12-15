@@ -5,6 +5,13 @@ collection: Research
 
 I have delved into a range of projects revolving around Semiconductor Device Physics, Integrated Circuits and Systems, Communication and Signal Processing.  
 
+# Estimating Memory Cost 
+
+Modern computing systems are power hungry. Over my sophomore year, I worked on developing a theoretical framework to estimate the energy expenditure of a memory block drawing inspiration from Markov Chains and Ising Model. 
+
+![Memory](/images/Memor.png)
+<center> Fig: Model for Memory </center>
+
 # Integrated Circuit Design and Testing
 
 I have worked on Integrated Circuit Design and Testing. I experience in projects ranging from schematic design to layout of chips. Some recent designs I worked on include - 
@@ -44,7 +51,9 @@ With the effective use of Machine Leaning in the circuit design sector, we can d
 ![ALGO](/images/Algo.png)
 <center> Fig: Algorithm for Automating Circuit Synthesis </center>
 
-Elegant circuit design principles can help in designing better AI hardware. During Fall 24, I enrolled in Neuromorphic Computing to learn about efficient circuit design techniques to accelerate Machine Learning Hardware. 
+Elegant circuit design principles can help in designing better AI hardware. During Fall 24, I enrolled in [Neuromorphic Computing](https://github.com/ANIRUDHBS1/Neuromorphic-Computing-EE6347) to learn about efficient circuit design techniques to accelerate Machine Learning Hardware. 
 
-| <img src="/images/Array.png" alt="Array Image"> | <img src="/images/RRAM.png" alt="RRAM Image"> |
-<center> Fig: (a) Neural Network Hardware Implementation (b) RRAM Butterfly Curve </center>
+<img src="/images/Array.png" alt="Array Image"> 
+<center> Fig: (a) Neural Network Hardware Implementation  </center>
+<img src="/images/RRAM.png" alt="RRAM Image">
+<center> Fig: (b) RRAM Butterfly Curve </center>
