@@ -36,7 +36,7 @@ During my stay at IITMSAT, I got to test space grade PCBs and work with state-of
 
 # Distributed Modelling of Photonic Components
 
-Over the past couple of months, I have worked on Silicon Photonics. I am associated with the Center for Programmamble Photonic Integrated Circuits (CPPICS) at IIT Madras. My contribution has been towards developing Verilog A based compact models for photonic components. 
+Over the past couple of months, I have worked on Silicon Photonics. I am associated with the Center for Programmamble Photonic Integrated Circuits ([CPPICS](https://cppics.iitm.ac.in/)) at IIT Madras. My contribution has been towards developing Verilog A based compact models for photonic components. 
 
 ![MRM](/images/MRM.png)
 <center> Ref: Phase Controlled Bistability in Silicon Microring Resonators for Nonlinear Photonics</center>
