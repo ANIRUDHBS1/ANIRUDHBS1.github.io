@@ -5,15 +5,14 @@ collection: Research
 
 I have delved into a range of projects revolving around Semiconductor Device Physics, Integrated Circuits and Systems, Communication and Signal Processing.  
 
-
 # Integrated Circuit Design and Testing
 
-I love working on Integrated Circuit Design and Testing. I have worked on projects ranging from schematic design to layout of chips. Some recent designs I worked on include - 
+I have worked on Integrated Circuit Design and Testing. I experience in projects ranging from schematic design to layout of chips. Some recent designs I worked on include - 
 
 <ol>
 <li>Design of a Programmable X band Filter (9 GHz to 10 GHz) - High Input Power handling capability and selectivity.</li>
-<li>Design of a 50 GHz Continuous Time Linear Equalizer for an ADC frontend - High Gain, Extremely good linearity. Drive 400fF at 50GHz.  </li>
-<li>Design of a 6 bit digitally controlled Ku Band Phase Shifter - Low DNL, High Output P1dB</li>
+<li>Design of a 50 GHz Continuous Time Linear Equalizer for an ADC frontend - High Gain, High linearity.  </li>
+<li>Design of a 6-bit Ku Band Phase Shifter - Low RMS Phase and Amplitude Errors, High Output P1dB</li>
 </ol>
 
 ![DAC](/images/DAC.png)
@@ -27,18 +26,25 @@ During my stay at IITMSAT, I got to test space grade PCBs and work with state-of
 ![COMTX](/images/COM.jpg)
 <center> Fig: COM Board on Satellite </center>
 
+
 # Distributed Modelling of Photonic Components
 
-I have been interested in compact modelling of photonic components. 
+Over the past couple of months, I have worked on Silicon Photonics. I am associated with the Center for Programmamble Photonic Integrated Circuits (CPPICS) at IIT Madras. My contribution has been towards developing Verilog A based compact models for photonic components. 
 
 ![MRM](/images/MRM.png)
-<center> Ref: 300-Gbps optical interconnection using neuralnetwork based silicon microring modulator </center>
+<center> Ref: Phase Controlled Bistability in Silicon Microring Resonators for Nonlinear Photonics</center>
+
 
 # AI Circuits and Circuit Design Automation
 
-I am deeply interested in the application of ML in Circuit Design and how circuit design can build faster AI hardware. 
+I am interested in the intersection of Machine Learning and Circuit Design. 
 
-![COMTX](/images/Algo.png)
+With the effective use of Machine Leaning in the circuit design sector, we can design robust and efficient chips. Over the last year, I worked on automating RF circuit design. More about my work can be found [here](https://github.com/ANIRUDHBS1/Automating-RF-Circuit-Synthesis).
+
+![ALGO](/images/Algo.png)
 <center> Fig: Algorithm for Automating Circuit Synthesis </center>
 
-I worked on Automating RFIC Design in my junior year.More about my work can be found [here](https://github.com/ANIRUDHBS1/Automating-RF-Circuit-Synthesis)
+Elegant circuit design principles can help in designing better AI hardware. During Fall 24, I enrolled in Neuromorphic Computing to learn about efficient circuit design techniques to accelerate Machine Learning Hardware. 
+
+| <img src="/images/Array.png" alt="Array Image"> | <img src="/images/RRAM.png" alt="RRAM Image"> |
+<center> Fig: (a) Neural Network Hardware Implementation (b) RRAM Butterfly Curve </center>
