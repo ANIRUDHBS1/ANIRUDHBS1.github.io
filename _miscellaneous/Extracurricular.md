@@ -14,10 +14,14 @@ If you are EE or EP @ IITM, do check out the [EE Research Club Website](https://
 
 I have been fond of space and satellites ever since high school. As a member of Team [IITMSAT](https://sites.google.com/view/iitmsat), I had the privilege of engaging with scientists from ISRO and NASA. This unique experience allowed me to gain insights into the daily challenges and rewards of space exploration.
 
-<figure>
-  <img src="/images/Space.png" alt="Picture with Mr. Suresh Susurla, CEO of Startoon Labs, Alumni of Space Lab, IIT Madras">
-  <figcaption class="text-center">Picture with Mr. Suresh Susurla, CEO of Startoon Labs, Alumni of Space Lab, IIT Madras</figcaption>
-</figure>
+![Space](/images/Space.png) 
+<center> Fig. Picture with Mr. Suresh Susurla, CEO of [Startoon Labs](https://startoonlabs.com/)</center>
+
+# QualGrip
+
+Rural India faces the problem of water scarcity on a regular basis. Ancient infrastructure aggreviates this problem by leading to leaks. I, along with my Co-Founders Siva, Sudhir and Tanmay, founded QualGrip to address this problem. QualGrip was one of the few Start-Ups that made it to the Finals of the IITM Build to Innovate Challenge 24, organized by IITM Research Park. 
+
+Read the blog by us on developing cutting-edge methods to detect leaks [here](https://2024.nextgenerationaction.com/india-2/).
 
 # Chess
 
