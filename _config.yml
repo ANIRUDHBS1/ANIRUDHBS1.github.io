@@ -24,8 +24,8 @@ author:
   avatar           : "BSA.jpeg"
   name             : "Anirudh B S"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Researcher at the Integrated Circuits and Systems Group (iCS), IIT Madras."
-  location         : "Chennai"
+  bio              : "Undergraduate Researcher at IIT Madras."
+  #location         : "Chennai"
   employer         : "IIT Madras"
   uri              : # URL
   email            : "bsanirudh1@gmail.com" 
