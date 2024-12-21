@@ -14,7 +14,7 @@ I am Anirudh B S, an Undegraduate Student at IIT Madras. I am passionate about C
 
 # News
 
-- Our paper *Stochastic Analysis of Retention Time of Coupled Memory Topology* is available on [arXiV](https://arxiv.org/abs/2412.13197) now!
+- [December 2024] Our paper [*Stochastic Analysis of Retention Time of Coupled Memory Topology*](https://arxiv.org/abs/2412.13197) is available on arXiV now!
 
 
 
