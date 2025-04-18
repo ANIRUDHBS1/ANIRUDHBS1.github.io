@@ -6,11 +6,9 @@ Apart from academics and research, I’m passionate about a range of stuff. Know
 
 # Mentoring
 
-I am always excited about mentoring juniors on any aspects of undergraduate programs or research.
-
 I received admits from MIT/ Stanford/ UC Berkeley/ CalTech/ UCLA/ Columbia to pursue my graduate studies for Fall' 25. 
 
-If you are EE or EP @ IITM, do check out the [EE Research Club Website](https://sites.google.com/smail.iitm.ac.in/eerc) and feel free to reach out to me via email. 
+I am always excited about mentoring on any aspects of undergraduate research and/or coursework. In case you feel that I could be of some help, feel free to reach out via email. 
 
 # Space
 
