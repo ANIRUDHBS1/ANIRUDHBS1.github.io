@@ -6,8 +6,6 @@ Apart from academics and research, I’m passionate about a range of stuff. Know
 
 # Mentoring
 
-I received admits from MIT/ Stanford/ UC Berkeley/ CalTech/ UCLA/ Columbia to pursue my graduate studies for Fall' 25. 
-
 I am always excited about mentoring on any aspects of undergraduate research and/or coursework. In case you feel that I could be of some help, feel free to reach out via email. 
 
 # Space
