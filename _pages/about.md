@@ -14,7 +14,9 @@ I am Anirudh B S, an Undergraduate Student at IIT Madras. I am passionate about 
 
 # News
  
-- [December 2024] Our paper [*Stochastic Analysis of Retention Time of Coupled Memory Topology*](https://arxiv.org/abs/2412.13197) is available on arXiV now!
+- [May 2025] Our paper *Design Automation of Low Noise Amplifiers* got accepted at MWSCAS 2025! 
+- [March 2025] I received admits from MIT, UC Berkeley, Stanford, CalTech, UCLA and Columbia to pursue graduate studies!
+- [December 2024] Our paper [*Stochastic Analysis of Retention Time of Coupled Memory Topology*](https://arxiv.org/abs/2412.13197) is on arXiV now!
 
 
 
