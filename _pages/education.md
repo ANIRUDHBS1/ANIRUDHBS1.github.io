@@ -17,10 +17,12 @@ table, th, td {
 
 <table>
 <tr>
-<th align="center">
+<th>
+<center>
 <img src="/images/StAnns.png" alt="St.Anns" style="width: 250px; height: 250px;"> 
+</center>
 </th>
-<th align="center">
+<th align="left">
 <h1>St. Ann's High School</h1>
 <p> </p>
 </th>
