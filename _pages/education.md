@@ -5,11 +5,13 @@ permalink: /education/
 author_profile: true
 ---
 
-::: {.row}
-  ::: {.col-md-4}
-    table ...
-  :::
-  ::: {.col-md-8}
-    graph ...
-  :::
-:::
+{{< columns >}}
+
+  Pariatur voluptate ea eiusmod eiusmod. Cillum culpa anim ad incididunt.
+
+{{< column >}}
+
+  ![A picture of clouds and sky](/images/10STD.png)
+  Adipisicing et culpa cillum exercitation in id dolor. Ut consectetur fugiat...
+
+{{< endcolumns >}}
