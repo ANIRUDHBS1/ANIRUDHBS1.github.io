@@ -4,50 +4,14 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-{{/*  Source:https://gitlab.com/Roneo/hugo-shortcode-roneo-collection  */}}
 
-</div><div class="column-right">
-
-{{/*  Source: https://gitlab.com/Roneo/hugo-shortcode-roneo-collection  */}}
-
-{{/*  Check if the shortcode was already loaded on this page and load CSS only the first time  */}}
-{{- if not ($.Page.Scratch.Get "column_count") -}}
-  <style>
-      div.splitbox {width:100%; overflow:auto;}
-
-      div.splitbox div.column-left {
-                    width:48%;
-                    float:left;}
-      div.splitbox div.column-right {
-                    width:48%;
-                    float:right;}
-
-      @media only screen and (max-width: 600px) {
-      div.splitbox div.column-left {
-                    width:100%;
-                    float:left;}
-      div.splitbox div.column-right {
-                    width:100%;
-                    float:left;}
-      }
-  </style>
-{{- end -}}
-
-{{- $.Page.Scratch.Add "column_count" 1 -}}
-
-<div class="splitbox"><div class="column-left">
-
-{{/*  Source:https://gitlab.com/Roneo/hugo-shortcode-roneo-collection  */}}
-
-</div><div style="clear:both"></div></div>
-
-{{< columns >}}
+{% include column.html %}
 
   Pariatur voluptate ea eiusmod eiusmod. Cillum culpa anim ad incididunt.
 
-{{< column >}}
+{% include columns.html %}
 
   ![A picture of clouds and sky](/images/10STD.png)
   Adipisicing et culpa cillum exercitation in id dolor. Ut consectetur fugiat...
 
-{{< endcolumns >}}
+{% include endcolumns.html %}
