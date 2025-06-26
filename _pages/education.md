@@ -16,10 +16,10 @@ table, th, td {
 <table>
 <tr>
 <th align="center">
-<img src="/images/Array.png" alt="Array Image" style="width: 200px; height: 150px;"> 
+<img src="/images/10STD.png" alt="St.Anns" style="width: 400px; height: 300px;"> 
 </th>
 <th align="center">
-St. Ann's High School
+<h2>St. Ann's High School</h2>
 <p> </p>
 </th>
 </tr>
