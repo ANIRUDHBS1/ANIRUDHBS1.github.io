@@ -8,10 +8,10 @@ author_profile: true
 <table>
 <tr>
 <th align="center">
-![10th](/images/10STD.png)
+<img src="/images/Array.png" alt="Array Image"> 
 </th>
 <th align="center">
-# St. Ann's High School
+St. Ann's High School
 <p> </p>
 </th>
 </tr>
