@@ -5,13 +5,59 @@ permalink: /education/
 author_profile: true
 ---
 
-{% include columns.html %}
-
-  Pariatur voluptate ea eiusmod eiusmod. Cillum culpa anim ad incididunt.
-
-{% include column.html %}
-
-  ![A picture of clouds and sky](/images/10STD.png)
-  Adipisicing et culpa cillum exercitation in id dolor. Ut consectetur fugiat...
-
-{% include endcolumns.html %}
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
+</table>
