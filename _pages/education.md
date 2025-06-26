@@ -4,6 +4,9 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
+{{/*  Source:https://gitlab.com/Roneo/hugo-shortcode-roneo-collection  */}}
+
+</div><div class="column-right">
 
 {{/*  Source: https://gitlab.com/Roneo/hugo-shortcode-roneo-collection  */}}
 
@@ -33,6 +36,10 @@ author_profile: true
 {{- $.Page.Scratch.Add "column_count" 1 -}}
 
 <div class="splitbox"><div class="column-left">
+
+{{/*  Source:https://gitlab.com/Roneo/hugo-shortcode-roneo-collection  */}}
+
+</div><div style="clear:both"></div></div>
 
 {{< columns >}}
 
