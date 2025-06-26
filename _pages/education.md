@@ -29,9 +29,9 @@ St. Ann's High School
 <h3 class="text-xl font-semibold text-gray-600 mb-4 leading-normal">
 Rajajinagar, Bangalore - 560010
 </h3>
-<p class="text-gray-700 text-base leading-relaxed">
-Awesome High School is dedicated to fostering a vibrant learning environment where students can achieve academic excellence, develop critical thinking skills, and grow into responsible global citizens. We offer a comprehensive curriculum supported by experienced educators and state-of-the-art facilities, preparing students for future success in higher education and beyond.
-</p>
+<h3 class="text-xl font-semibold text-gray-600 mb-4 leading-normal">
+2007 - 2019
+</h3>
 </th>
 </tr>
 </table>
