@@ -22,10 +22,10 @@ table, th, td {
 St. Ann's High School
 </h1>
 <h2 class="text-xl font-semibold text-gray-600 mb-4 leading-normal">
-Rajajinagar, Bangalore - 560010
+6th Block Rajajinagar, Bangalore - 560010
 </h2>
 <h2 class="text-xl font-semibold text-gray-600 mb-4 leading-normal">
-2007 - 2019
+Primary and Secondary Education  (2007 - 2019)
 </h2>
 </th>
 <th>
