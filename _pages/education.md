@@ -18,7 +18,7 @@ table, th, td {
 <table>
 <tr>
 <th align="center">
-<img src="/images/10STD.png" alt="St.Anns" style="width: 600px; height: 500px;"> 
+<img src="/images/StAnns.png" alt="St.Anns" style="width: 400px; height: 400px;"> 
 </th>
 <th align="center">
 <h2>St. Ann's High School</h2>
