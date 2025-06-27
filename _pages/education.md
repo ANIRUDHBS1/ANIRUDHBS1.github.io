@@ -29,7 +29,7 @@ table, th, td {
 </tr>
 </table>
 
-**Courses:** 
+**Courses:** Advanced CMOS Devices and Technologies (EE6346), Advanced Memory Technology (EE6345), Analog Circuits (EE3002), Analog IC Design (EE5320), Analog Systems and Lab (EE2019), Applied Programming Lab (EE2703), Communication Systems (EE3005), Control Engineering (EE3004), Device Modelling (EE3313), Devices and Technologies for AI and Neuromorphic Computing (EE6347), Digital IC Design (EE5311), Digital Signal Processing (EE2004), Digital Systems and Lab (EE2001), Electric Circuits and Networks (EE2015), Electrical Machines and Lab (EE2005), Engineering Electromagnetics (EE2025), Industrial Internet of Things (EE5402), Introduction to Plastic Electronics (EE5346), Microprocessor Theory and Lab (EE2016), Multirate Digital Signal Processing (EE6133), Principles of Measurement (EE3006), RF Integrated Circuits (EE6320), Semiconductor Device Modelling (EE5313), Seminar on the History of Electrical Engineering (EE5004), Solid State Devices (EE3001), VLSI Technology (EE5312)
 
 **Achievements:** 
 
