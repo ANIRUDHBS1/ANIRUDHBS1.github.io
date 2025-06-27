@@ -15,6 +15,25 @@ table, th, td {
 
 <table>
 <tr>
+<th>
+<center>
+<img src="/images/OxfordPU.png" alt="Oxford PU" style="width: 250px; height: 250px;"> 
+</center>
+</th>
+<th align="center">
+<font size="6"><b>Oxford Independent PU College</b></font><br/>
+<font size="4"> Sir M. Visveshwaraiah Layout, Ullal Main Road, Bangalore - 560110 </font><br/>
+<font size="4"> Senior Secondary Education  (2019 - 2021) </font><br/>
+<font size="4"> Percentage : 100 % </font><br/>
+</th>
+</tr>
+</table>
+
+**Subjects:** English, Hindi, Physics, Chemistry, Mathematics, Computer Science
+**Achievements:** KVPY Fellow in both Class XI (SA Stream) and Class XII (SX Stream), Qualified JEE Mains and JEE Advanced with All India Ranks of 38 and 384 respectively, Secured State Rank 3 in the Karnataka Common Entrance Test (KCET)
+
+<table>
+<tr>
 <th align="center">
 <font size="6"><b>St. Ann's High School</b></font><br/>
 <font size="4"> 6th Block Rajajinagar, Bangalore - 560010 </font><br/>
@@ -29,22 +48,5 @@ table, th, td {
 </tr>
 </table>
 
-**Subjects:** English, Hindi, Kannada, History and Civics, Geography, Physics, Chemistry, Biology, Mathematics, Computer Applications
+**Subjects:** English, Hindi, History and Civics, Geography, Physics, Chemistry, Biology, Mathematics, Computer Applications
 **Achievements:** NTSE Scholar, Qualified NTSE Stage with State Rank 2, ICSE Class X State Rank 3
-
-<table>
-<tr>
-<th align="center">
-<font size="6"><b>Oxford Independent PU College</b></font><br/>
-<font size="4"> 6th Block Rajajinagar, Bangalore - 560010 </font><br/>
-<h2 class="text-xl font-semibold text-gray-600 mb-4 leading-normal">
-Senior Secondary Education  (2019 - 2021)
-</h2>
-</th>
-<th>
-<center>
-<img src="/images/OxfodPU.png" alt="St.Anns" style="width: 250px; height: 250px;"> 
-</center>
-</th>
-</tr>
-</table>
