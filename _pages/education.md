@@ -17,7 +17,7 @@ table, th, td {
 <tr>
 <th>
 <center>
-<img src="/images/OxfordPU.png" alt="Oxford PU" style="width: 250px; height: 250px;"> 
+<img src="/images/OxfordPU.png" alt="Oxford PU" style="width: 250px; height: 180px;"> 
 </center>
 </th>
 <th align="center">
@@ -42,7 +42,7 @@ table, th, td {
 </th>
 <th>
 <center>
-<img src="/images/StAnns.png" alt="St.Anns" style="width: 250px; height: 250px;"> 
+<img src="/images/StAnns.png" alt="St.Anns" style="width: 200px; height: 200px;"> 
 </center>
 </th>
 </tr>
