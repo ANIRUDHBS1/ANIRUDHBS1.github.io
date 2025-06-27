@@ -29,8 +29,9 @@ table, th, td {
 </tr>
 </table>
 
-**Subjects:** English, Hindi, Physics, Chemistry, Mathematics, Computer Science
-**Achievements:** KVPY Fellow in both Class XI (SA Stream) and Class XII (SX Stream), Qualified JEE Mains and JEE Advanced with All India Ranks of 38 and 384 respectively, Secured State Rank 3 in the Karnataka Common Entrance Test (KCET)
+**Subjects:** English, Hindi, Physics, Chemistry, Mathematics, Computer Science 
+
+**Achievements:** KVPY Fellow in both Class XI (SA Stream) and Class XII (SX Stream), Qualified JEE Mains and JEE Advanced with All India Ranks of 38 and 384 respectively, Secured a State Rank of 3 in the Karnataka Common Entrance Test (KCET)
 
 <table>
 <tr>
@@ -49,4 +50,5 @@ table, th, td {
 </table>
 
 **Subjects:** English, Hindi, History and Civics, Geography, Physics, Chemistry, Biology, Mathematics, Computer Applications
+
 **Achievements:** NTSE Scholar, Qualified NTSE Stage with State Rank 2, ICSE Class X State Rank 3
