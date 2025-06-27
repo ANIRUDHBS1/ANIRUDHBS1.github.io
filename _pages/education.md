@@ -71,4 +71,4 @@ table, th, td {
 
 **Subjects:** English, Hindi, History and Civics, Geography, Physics, Chemistry, Biology, Mathematics, Computer Applications
 
-**Achievements:** NTSE Scholar, Qualified NTSE Stage with State Rank 2, ICSE Class X State Rank 3
+**Achievements:** NTSE Scholar, Qualified NTSE Stage I with State Rank 2, ICSE Class X State Rank 3
