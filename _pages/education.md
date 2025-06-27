@@ -18,12 +18,8 @@ table, th, td {
 <table>
 <tr>
 <th align="center">
-<h1 class="text-4xl font-bold text-gray-800 mb-2 leading-tight">
-St. Ann's High School
-</h1>
-<h2 class="text-xl font-semibold text-gray-600 mb-4 leading-normal">
-6th Block Rajajinagar, Bangalore - 560010
-</h2>
+<font size="6"><b>St. Ann's High School</b></font><br/>
+<font size="4"> 6th Block Rajajinagar, Bangalore - 560010 </font><br/>
 <h2 class="text-xl font-semibold text-gray-600 mb-4 leading-normal">
 Primary and Secondary Education  (2007 - 2019)
 </h2>
