@@ -15,6 +15,26 @@ table, th, td {
 
 <table>
 <tr>
+<th align="center">
+<font size="6"><b>Indian Institute of Technology, Madras</b></font><br/>
+<font size="4"> IIT Madras P.O., Chennai - 600036 </font><br/>
+<font size="4"> Bachelor of Technology (Honors) in Electrical Engineering </font><br/>
+<font size="4"> CGPA :  </font><br/>
+</th>
+<th>
+<center>
+<img src="/images/IITM.png" alt="IITM" style="width: 200px; height: 200px;"> 
+</center>
+</th>
+</tr>
+</table>
+
+**Courses:** 
+
+**Achievements:** 
+
+<table>
+<tr>
 <th>
 <center>
 <img src="/images/OxfordPU.png" alt="Oxford PU" style="width: 250px; height: 180px;"> 
