@@ -17,7 +17,7 @@ table, th, td {
 <tr>
 <th>
 <center>
-<img src="/images/UCB.png" alt="UCB" style="width: 200px; height: 180px;"> 
+<img src="/images/UCB.png" alt="UCB" style="width: 200px; height: 200px;"> 
 </center>
 </th>
 <th align="center">
