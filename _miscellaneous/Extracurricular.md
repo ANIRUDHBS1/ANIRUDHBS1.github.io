@@ -4,9 +4,13 @@ collection: miscellaneous
 
 Apart from academics and research, I’m passionate about a range of stuff. Know more about some of them here!
 
-# Mentoring
+# Gallery
 
-I am always excited about mentoring on any aspects of undergraduate research and/or coursework. In case you feel that I could be of some help, feel free to reach out via email. 
+![Space](/images/MainConvocation.png) 
+<center> Fig. Receiving the President of India Gold Medal at IITM Convocation 2025.</center>
+
+![Space](/images/D3P.jpg) 
+<center> Fig. Receiving the EE departmental awards at EE D3P IITM 2025.</center>
 
 # Space
 
@@ -22,3 +26,4 @@ I've been learning to play the piano for the past couple of months. It's a wonde
 # Chess
 
 I used to be a district-level chess champion in school, but now I play chess casually as a hobby.
+
