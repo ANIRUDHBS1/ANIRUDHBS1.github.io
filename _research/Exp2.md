@@ -3,15 +3,31 @@ title: "Research"
 collection: Research
 ---
 
-# Estimating Memory Cost 
+# Integrated Circuit (IC) : Design and Testing
 
-Modern computing systems are power hungry. Recent studies have shown that the energy consumption is rising at an alarming rate calling for the development of energy efficient computing paradigms, devices and circuits. This has led to the development of [Neuromorphic computing](https://www.nature.com/articles/s42254-020-0208-2) and [Probabilistic Computing](https://arxiv.org/abs/2302.06457). Recent literature also hints at the emergence of computing systems and devices inspired from human biology. 
+During my stay at IIT Madras and Texas Instruments, I worked on a variety of Integrated Circuit Design and Testing (commonly abbreviated as ICDT) projects. My contribution in chip design projects ranged from schematic design to pre-tapeout layout design. Some of the designs I worked on are briefly described below: 
 
-Starting my sophomore year, I worked on developing a theoretical framework to estimate the energy expenditure of a memory block drawing inspiration from Markov Chains, Ising Model from Statistical Physics and Economics. I have been fortunate to collaborate with [Prof. Anjan Chakravorty](https://www.ee.iitm.ac.in/anjan/), [Prof. Avhishek Chatterjee](https://sites.google.com/site/avhishek1984/) and [Prof. Bhaswar Chakrabarti](https://scholar.google.com/citations?user=kyjPyQMAAAAJ&hl=en) on this exploratory problem statement. 
+**1. Design of a Programmable X band Filter (9 GHz to 10 GHz)** 
 
-![Memory](/images/Memor.png)
-<center> Fig: Markovian Model for Memory </center>
+This project revolved around designing an on-chip filter with a very high selectivity (High Q) and very high input power handling capability. The challenge involved in this design arises due to the low Q of the on chip inductors that need to be compensated for. During my stay at the High Speed Converters (HSC) group at Texas Instruments, I explored several design routes for the realization of such a high Q on-chip filter. This design was completed at a schematic level. 
 
-Our work on the same can be found on arXiV. Links to the same are attached below. I was awarded the Valadi Krishna Sarma Balaji & Savithri Balaji Award for the Best Thesis on Power/ Energy Savings across all degrees (B.Tech, M.Tech, M.S. and PhD) for my work on "Estimating Memory Cost" at the 62nd Convocation of IIT Madras. 
+**2. Design of a 50 GHz Continuous Time Linear Equalizer for an ADC frontend** 
 
-Related Paper : [Stochastic Analysis of Retention Time of Coupled Memory Topology](https://arxiv.org/abs/2412.13197)
+This was my second challenging project at Texas Instruments where I was exposed to the world of Broadband circuits and Serial Links. My responsibilites here involved the design of a Continuous Time Linear Equalizer (CTLE) with a 50 GHz bandwidth and 50 dB linearity for an ADC frontend. The challenge involved in this design was to tackle the high capacitive load of the ADC at 50 GHz. This design was completed at a schematic level. 
+
+**3. Design of a 6-bit Ku Band Phase Shifter** 
+
+During my final year at IIT Madras, I collaborated with [Prof. Sankaran Aniruddhan](https://www.ee.iitm.ac.in/ani/) to design an Active Vector Summation based Phase Shifter for Ku-Band from 10 GHz to 15 GHz with an output P1dB of +5dBm in 28nm CMOS for beamforming applications. The design process involved several challenges - designing the transformer balun with required insertion loss to ensuring the DNL of the phase shifter was as required. Layout of several blocks were completed and the schematic design was closed. This phase shifter is now being designed as a part of a larger beamformer for 6G use.
+
+![DAC](/images/DAC.png)
+<center> Fig: Current Steering DAC (Digital to Analog Converter) </center>
+
+![Layout](/images/Layout.png)
+<center> Fig: Layout of a Transformer </center>
+
+**4. Testing of RF Circuital Blocks and PCBs** 
+
+During my stay at [IITMSAT](https://sites.google.com/view/iitmsat), I got to test space grade PCBs and work with state-of-the-art network analysers to characterise amplifiers and splitters in the RF chain. I am incredibly grateful to [Prof. David Koilpillai](https://www.ee.iitm.ac.in/~koilpillai/) for providing me the opportunity to be a part of IITMSAT and letting me grow both personally and professionally in a collaborative environment. 
+
+![COMTX](/images/COM.jpg)
+<center> Fig: COM Board on Satellite </center>
