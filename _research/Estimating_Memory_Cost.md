@@ -10,8 +10,8 @@ Modern computing systems are power hungry. Recent studies have shown that the en
 Starting my sophomore year, I worked on developing a theoretical framework to estimate the energy expenditure of a memory block drawing inspiration from Markov Chains, Ising Model from Statistical Physics and Economics. I have been fortunate to collaborate with [Prof. Anjan Chakravorty](https://www.ee.iitm.ac.in/anjan/), [Prof. Avhishek Chatterjee](https://sites.google.com/site/avhishek1984/) and [Prof. Bhaswar Chakrabarti](https://scholar.google.com/citations?user=kyjPyQMAAAAJ&hl=en) on this problem. 
 
 ![Memory](/images/Memor.png)
-<center> Fig: Model for Memory </center>
+<center> Fig: Markovian Model for Memory </center>
 
 Our work on the same can be found on arXiV. Links to the same are attached below. I was awarded the Valadi Krishna Sarma Balaji & Savithri Balaji Award for the Best Thesis on Power/ Energy Savings across all degrees (B.Tech, M.Tech, M.S. and PhD) for my work on "Estimating Memory Cost" at the 62nd Convocation of IIT Madras. 
 
-[Stochastic Analysis of Retention Time of Coupled Memory Topology](https://arxiv.org/abs/2412.13197)
+Related Paper : [Stochastic Analysis of Retention Time of Coupled Memory Topology](https://arxiv.org/abs/2412.13197)

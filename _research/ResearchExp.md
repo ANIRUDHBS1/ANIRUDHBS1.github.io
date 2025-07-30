@@ -3,14 +3,7 @@ title: "Research"
 collection: Research
 ---
 
-I have delved into a range of projects revolving around Semiconductor Device Physics, Integrated Circuits and Systems, Communication and Signal Processing.  
-
-# Estimating Memory Cost 
-
-Modern computing systems are power hungry. Over my sophomore year, I worked on developing a theoretical framework to estimate the energy expenditure of a memory block drawing inspiration from Markov Chains and Ising Model. 
-
-![Memory](/images/Memor.png)
-<center> Fig: Model for Memory </center>
+I have delved into a range of projects revolving around Semiconductor Device Physics, Integrated Circuits and Systems, Communication and Signal Processing. 
 
 # Integrated Circuit Design and Testing
 
