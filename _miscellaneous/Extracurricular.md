@@ -4,12 +4,14 @@ collection: miscellaneous
 
 Apart from academics and research, I’m passionate about a range of stuff. Know more about some of them here!
 
-# Gallery
+# 62nd Convocation at IIT Madras
+
+I received a total of 4 awards at the 62nd Convocation of IIT Madras - President of India Gold Medal, Bharat Ratna M Visvesvaraya Memorial Prize, Siemens Prize, Valadi Krishna Sarma Balaji & Savithri Balaji Award. Relevant articles that feature this - [IIT Madras Website](https://www.iitm.ac.in/happenings/press-releases-and-coverages/iit-madras-62nd-convocation-witnesses-graduation-3227), [Indian Express](https://indianexpress.com/article/education/iit-madras-62nd-convocation-3661-degrees-awarded-jee-main-2025-advanced-ajit-doval-10120183/), and the [Times of India](https://timesofindia.indiatimes.com/city/chennai/doval-asks-iit-grads-to-be-indias-tech-warriors/articleshow/122394313.cms). 
 
 ![Space](/images/MainConvocation.png) 
 <center> Fig. Receiving the President of India Gold Medal at IITM Convocation 2025.</center>
 
-![Space](/images/D3P.jpg) 
+![Space](/images/EE_D3P.png) 
 <center> Fig. Receiving the EE departmental awards at EE D3P IITM 2025.</center>
 
 # Space
