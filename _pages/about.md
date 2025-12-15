@@ -16,6 +16,7 @@ I was awarded the [President of India Gold Medal at IIT Madras](https://www.iitm
 
 # News
 
+- [December 2025] I finished as a Runner-Up on the Apple Design Competition for EE240A!
 - [July 2025] I graduated from [IIT Madras](https://www.iitm.ac.in/) with the President of India Gold Medal. 
 - [May 2025] Our paper *Design Automation of Low Noise Amplifiers* got accepted at MWSCAS 2025! 
 - [March 2025] I received admits from MIT, UC Berkeley, Stanford, CalTech, UCLA and Columbia to pursue graduate studies!

@@ -29,6 +29,8 @@ table, th, td {
 </tr>
 </table>
 
+**Courses:** Analog Integrated Circuits (EE240A), Introduction to Digital Design and Integrated Circuits (EECS251A), Field Programmable Gate Array (FPGA) Lab (EECS251LB)
+
 <table>
 <tr>
 <th align="center">
