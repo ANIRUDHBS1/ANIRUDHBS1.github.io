@@ -29,7 +29,7 @@ table, th, td {
 </tr>
 </table>
 
-**Courses:** <a href="{{ base_path }}/projects/EE1104">Analog Integrated Circuits (EE240A)</a>, Introduction to Digital Design and Integrated Circuits (EECS251A), Field Programmable Gate Array (FPGA) Lab (EECS251LB)
+**Courses:** Analog Integrated Circuits (EE240A, <a href="{{ base_path }}/projects/EE240A">Project Description</a>), Introduction to Digital Design and Integrated Circuits (EECS251A), Field Programmable Gate Array (FPGA) Lab (EECS251LB)
 
 <table>
 <tr>
