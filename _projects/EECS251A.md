@@ -31,7 +31,7 @@ The three stage pipeline is divided into three phases :
 <li>MW : Memory and Write-Back</li>
 </ul>
 
-Figure 2 shows the Block Diagram of our three stage pipeline with Floating Point Unit in parallel to the ALU. The Floating Point Unit (FPU) is pipelined with 2 st 0.ages for floating point addition and 3 stages for floating point mul nbgtds   tiplication and accumulation. 
+Figure 2 shows the Block Diagram of our three stage pipeline with Floating Point Unit in parallel to the ALU. The Floating Point Unit (FPU) is pipelined with 2 stages for floating point addition and 3 stages for floating point multiplication and accumulation. 
 
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
