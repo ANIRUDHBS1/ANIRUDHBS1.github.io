@@ -40,7 +40,7 @@ Figure 2 shows the Block Diagram of our three stage pipeline with Floating Point
   </figure>
 </div>
 
-In the F stage, the IMEM, PC and pipeline register are clocked simultaneously. Between the DX and MW stage, the DMEM and pipeline registers are clocked together. Extensive forwarding is employed to ensure that ALU-ALU hazards, MEM-ALU hazards and ALU-MEM hazards do not encounter any stalls.  The PC Select Mux takes one of its input right from the output of the ALU. In case of a branch instruction, the ALU output is directly forwarded to the IMEM address, thus reducing any branch misprediction and having a resultant integer CPI of 1.
+In the F stage, the IMEM, PC and pipeline register are clocked simultaneously. Between the DX and MW stage, the DMEM and pipeline registers are clocked together. Extensive forwarding is employed to ensure that ALU-ALU hazards, MEM-MEM hazards, MEM-ALU hazards and ALU-MEM hazards do not encounter any stalls.  The PC Select Mux takes one of its input right from the output of the ALU. In case of a branch instruction, the ALU output is directly forwarded to the IMEM address, thus reducing any branch misprediction and having a resultant integer CPI of 1.
 
 Due to the long critical path of the floating point unit, it has been pipelined to 2 stages for floating point addition and 3 stages for floating point multiplication and accumulation to ensure high frequency of operation. 
 
