@@ -9,7 +9,7 @@ date: 2025-12-12
 location: "Berkeley, California, USA"
 ---
 
-I won the Apple FPGA Design Competition for this Design!
+I won the Apple Design Competition for this Design!
 
 <h1>Introduction</h1>
 
@@ -43,6 +43,17 @@ Figure 2 shows the Block Diagram of our three stage pipeline with Floating Point
 In the F stage, the IMEM, PC and pipeline register are clocked simultaneously. Between the DX and MW stage, the DMEM and pipeline registers are clocked together. Extensive forwarding is employed to ensure that ALU-ALU hazards, MEM-ALU hazards and ALU-MEM hazards do not encounter any stalls.  The PC Select Mux takes one of its input right from the output of the ALU. In case of a branch instruction, the ALU output is directly forwarded to the IMEM address, thus reducing any branch misprediction and having a resultant integer CPI of 1.
 
 Due to the long critical path of the floating point unit, it has been pipelined to 2 stages for floating point addition and 3 stages for floating point multiplication and accumulation to ensure high frequency of operation. 
+
+<h1>Memory Mapped IO</h1>
+
+A memory mapped IO is used to map the different memory locations to IMEM, BIOS, DMEM and UART modules. Figure 3 shows the MMIO mapping of the RISC-V core. 
+
+<div style="display: flex; gap: 10px; text-align: center;">
+  <figure style="width: 100%; margin: 0;">
+    <img src="/images/MMIO.png" style="width: 100%;">
+    <figcaption>Figure 3 : Memory Mapped IO</figcaption>
+  </figure>
+</div>
 
 <h1>Resource Utilization</h1>
 
