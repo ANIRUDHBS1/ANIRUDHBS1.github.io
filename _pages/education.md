@@ -23,8 +23,8 @@ table, th, td {
 <th align="center">
 <font size="6"><b>University of California, Berkeley</b></font><br/>
 <font size="4"> Berkeley, CA, USA </font><br/>
-<font size="4">  </font><br/>
-<font size="4">  </font><br/>
+<font size="4"> Doctor of Philosophy in Electrical Engineering and Computer Sciences (2025 - Present) </font><br/>
+<font size="4"> CGPA : /4.0 </font><br/>
 </th>
 </tr>
 </table>
