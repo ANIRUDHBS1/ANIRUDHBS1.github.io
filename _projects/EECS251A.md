@@ -9,7 +9,7 @@ date: 2025-12-12
 location: "Berkeley, California, USA"
 ---
 
-I won the Apple Design Competition for this Design!
+This project is done in collaboration with Somil Jethra. We won the Apple Design Competition for this Design!
 
 <h1>Introduction</h1>
 

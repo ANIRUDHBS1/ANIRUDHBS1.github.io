@@ -14,7 +14,4 @@ I am Anirudh, a first-year PhD student advised by [Prof. Mekhail Anwar](http://a
 
 I was awarded the [President of India Gold Medal at IIT Madras](https://www.iitm.ac.in/happenings/press-releases-and-coverages/iit-madras-62nd-convocation-witnesses-graduation-3227)  where I received my Bachelor of Technology (Honours) degree in July 2025. I also received the award for the Best Thesis (across B.Tech, M.Tech, M.S. and PhD) on Power/Energy Saving for my work on "Estimating Memory Cost". During my undergraduate degree at IIT Madras, I'm incredibly fortunate to have been advised by Prof. [Anjan Chakravorty](https://www.ee.iitm.ac.in/anjan/), Prof. [Sankaran Aniruddhan](https://www.ee.iitm.ac.in/ani/), Prof. [Avhishek Chatterjee](https://sites.google.com/site/avhishek1984/), Prof. [David Koilpillai](https://www.ee.iitm.ac.in/~koilpillai/) and Prof. [Nagendra Krishnapura](http://ee.iitm.ac.in/~nagendra/). 
 
-# News
 
-- [December 2025] I won the EECS251A and EE240A Apple Design Contest as a part of NSI at Berkeley!
-- [July 2025] I graduated from [IIT Madras](https://www.iitm.ac.in/) with the President of India Gold Medal. 
