@@ -87,7 +87,7 @@ The block level diagram of the pipelined ADC is shown below.
   </figure>
 </div>
 
-The MDAC forms the most critical analog block in the pipeline stage. The implementation uses a fully differential switched-capacitor topology centered around a high-bandwidth operational transconductance amplifier (OTA). The design of this amplifier is described later in the next subsection. During the sampling phase ($\phi_1$), the analog input is captured across a parallel array of sampling capacitors. The sampling phase is followed by a comparator phase during which the sub-ADC use the sampled values to make a decision on the binary value that is used in the amplification phase that follows and the overall digital backend. During the amplification phase, the feedback network is reconfigured on the basis of the digital decisions provided by the Sub-ADC. The capacitors are selectively connected to the positive or negative reference voltages to perform Sub-DAC subtraction. The ratio of the input capacitors to the feedback capacitor is sized to provide the required gain of 2. Because the OTA must settle to within a fraction of a Least Significant Bit (LSB) within half a clock cycle (approximately 4 ns at 125 MS/s), a high-gain and high-bandwidth OTA is needed. Figure below shows the schematic of the MDAC. 
+The MDAC forms the most critical analog block in the pipeline stage. The implementation uses a fully differential switched-capacitor topology centered around a high-bandwidth operational transconductance amplifier (OTA). The design of this amplifier is described later in the next subsection. During the sampling phase $$\phi_1$$, the analog input is captured across a parallel array of sampling capacitors. The sampling phase is followed by a comparator phase during which the sub-ADC use the sampled values to make a decision on the binary value that is used in the amplification phase that follows and the overall digital backend. During the amplification phase, the feedback network is reconfigured on the basis of the digital decisions provided by the Sub-ADC. The capacitors are selectively connected to the positive or negative reference voltages to perform Sub-DAC subtraction. The ratio of the input capacitors to the feedback capacitor is sized to provide the required gain of 2. Because the OTA must settle to within a fraction of a Least Significant Bit (LSB) within half a clock cycle (approximately 4 ns at 125 MSPS), a high-gain and high-bandwidth OTA is needed. The figure below shows the schematic of the MDAC. 
 
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
@@ -114,7 +114,7 @@ To obtain a very high gain, it is necessary to use a cascode topology or a two s
   </figure>
 </div>
 
-The figures below describe the design of the comparator. The conventional Strong-Arm Latch has two phases - the precharge phase and the regenerate phase. During the precharge phase the outputs are shorted to VDD. During the regeneration phase, the comparator makes a decision on the voltages that need to be compared. Compared to the conventional topology shown on the left in Figure \ref{strant}, the topology on the right has a lower kickback noise and thus, have adopted that topology in our design. However, the reduced kickback noise comes at the cost of a higher offset that needs to be compensated by adding a pre-amplifier before the strong-arm latch. 
+The figures below describe the design of the comparator. The conventional Strong-Arm Latch has two phases - the precharge phase and the regenerate phase. During the precharge phase the outputs are shorted to VDD. During the regeneration phase, the comparator makes a decision on the voltages that need to be compared. Compared to the conventional topology shown on the left in the figure below, the topology on the right has a lower kickback noise and thus, have adopted that topology in our design. However, the reduced kickback noise comes at the cost of a higher offset that needs to be compensated by adding a pre-amplifier before the strong-arm latch. 
 
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
@@ -123,9 +123,10 @@ The figures below describe the design of the comparator. The conventional Strong
   </figure>
 </div>
 
+
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
-    <img src="/images/EECS251B/newstrong.png" style="width: 100%;">
+    <img src="/images/EECS251B/newstrog.png" style="width: 100%;">
     <figcaption>Modified StrongArm Latch</figcaption>
   </figure>
 </div>
