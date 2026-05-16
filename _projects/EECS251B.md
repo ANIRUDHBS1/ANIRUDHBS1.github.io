@@ -162,7 +162,7 @@ Figures below show the input sinusoid versus reconstructed ADC output and the Ou
 
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
-    <img src="images/EECS251B/ADC_output_spectrum.png" style="width: 100%;">
+    <img src="/images/EECS251B/ADC_output_spectrum.png" style="width: 100%;">
     <figcaption>ADC Output Spectrum</figcaption>
   </figure>
 </div>
@@ -171,14 +171,14 @@ The tables below show the simulation results of the ADC and integrated AAF + ADC
 
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
-    <img src="images/EECS251B/adcres.png" style="width: 100%;">
+    <img src="/images/EECS251B/adcres.png" style="width: 100%;">
     <figcaption>ADC Results Summary</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
-    <img src="images/EECS251B/fadcres.png" style="width: 100%;">
+    <img src="/images/EECS251B/fadcres.png" style="width: 100%;">
     <figcaption>AAF + ADC Results Summary</figcaption>
   </figure>
 </div>
@@ -187,14 +187,14 @@ Figures below show the Walden and Schreier FoM of our ADCs with ADCs published a
 
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
-    <img src="images/EECS251B/Walden.png" style="width: 100%;">
+    <img src="/images/EECS251B/Walden.png" style="width: 100%;">
     <figcaption>Walden FoM</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; gap: 10px; text-align: center;">
   <figure style="width: 100%; margin: 0;">
-    <img src="images/EECS251B/Schreier.png" style="width: 100%;">
+    <img src="/images/EECS251B/Schreier.png" style="width: 100%;">
     <figcaption>Schreier FoM</figcaption>
   </figure>
 </div>
