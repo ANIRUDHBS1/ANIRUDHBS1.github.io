@@ -29,7 +29,7 @@ table, th, td {
 </tr>
 </table>
 
-**Courses:** Analog Integrated Circuits (<a href="{{ base_path }}/projects/EE240A">EE240A</a>), Introduction to Digital Design and Integrated Circuits (<a href="{{ base_path }}/projects/EECS251A">EECS251A</a>), Field Programmable Gate Array (FPGA) Lab (<a href="{{ base_path }}/projects/EECS251A">EECS251LB</a>), Advanced Digital Integrated Circuits (<a href="{{ base_path }}/projects/EECS251B">EECS251B</a>)
+**Courses:** Analog Integrated Circuits (<a href="{{ base_path }}/projects/EE240A">EE240A</a>), Advanced Analog Integrated Circuits (<a href="{{ base_path }}/projects/EE240B">EE240B</a>), Introduction to Digital Design and Integrated Circuits (EECS251A), Field Programmable Gate Array (FPGA) Lab (<a href="{{ base_path }}/projects/EECS251A">EECS251LB</a>), Advanced Digital Integrated Circuits and Systems (<a href="{{ base_path }}/projects/EECS251B">EECS251B</a>). 
 
 <table>
 <tr>
