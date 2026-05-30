@@ -9,7 +9,9 @@ date: 2025-12-12
 location: "Berkeley, California, USA"
 ---
 
-This project is done in collaboration with Somil Jethra. We won the Apple Design Competition for this Design!
+This project is done in collaboration with Somil Jethra. 
+
+We won the Apple Design Competition for this course!
 
 <h1>Introduction</h1>
 

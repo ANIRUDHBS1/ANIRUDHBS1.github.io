@@ -11,6 +11,8 @@ location: "Berkeley, California, USA"
 
 This project is done in collaboration with Semihcan Seven. 
 
+We won the Apple Design Competition for this course!
+
 <h1>Introduction</h1>
 
 This project talks about the design of an Analog to Digital Converter (ADC) and its Anti-Aliasing Filter (AAF) for Gigabit Ethernet (GbPHY) applications. The Analog to Digital Converter (ADC) is arguably the most critical and power-hungry block in the Gigabit Ethernet (GbPHY) receiver chain. The burden of amplifying the low swing analog signal received from the channel and quantizing the resulting signal into digital values that can be recognized by the backend digital signal processing. At 125 MHz, the channel loss is estimated to be about 20 dB. The anti-aliasing filter upfront is tasked with restoring the incoming analog signal to the ADC full scale. This is in addition to the original function of removing aliasing components. 
